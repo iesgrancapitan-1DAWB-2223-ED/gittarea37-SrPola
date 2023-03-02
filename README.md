@@ -14,3 +14,6 @@
 ![](imagenes/14.png)
 ![](imagenes/15.png)
 ![](imagenes/16.png)
+![](imagenes/17.png)
+![](imagenes/18.png)
+![](imagenes/19.png)

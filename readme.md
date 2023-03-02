@@ -1,1 +1,0 @@
-Puto pajero del genshin
